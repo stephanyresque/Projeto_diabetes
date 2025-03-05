@@ -1,5 +1,5 @@
 import pandas as pd
-
+import matplotlib.pyplot as plt
 
 def dataframe_coeficientes(coeficientes, colunas):
     return pd.DataFrame(
